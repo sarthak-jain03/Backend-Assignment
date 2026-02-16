@@ -1,4 +1,4 @@
-# 🛒 Backend Assignment — Full-Stack Product Management System
+# Backend Assignment — Full-Stack Product Management System
 
 A full-stack application built with **Spring Boot 4** (backend) and **React + Vite** (frontend) for managing categories and products with role-based access control and JWT authentication.
 
@@ -187,6 +187,3 @@ jwt.secretKey=<your-secret-key>
 
 ---
 
-## 📄 License
-
-This project is for educational/assignment purposes.
